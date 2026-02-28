@@ -1,1 +1,1 @@
-require('Rosse').load()
+require('rosse').load()
